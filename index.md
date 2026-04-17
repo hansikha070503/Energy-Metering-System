@@ -53,7 +53,7 @@ views:
 ---
 
 ## 📸 Dashboard
-![Dashboard Preview]([https://github.com/amoghugargol/Energy-Metering-System-Project-Report/blob/d1de8e4e9b0bc3d795767faaa8a77d03b6fbe054/images/dashboard.png.jpg])
+![Dashboard Preview](images/dashboard.png)
 
 ---
 

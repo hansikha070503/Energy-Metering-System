@@ -57,36 +57,6 @@ views:
 
 ---
 
-## 🎥 Videos
-<div style="display: flex; gap: 10px; width: 100%;">
-
-  <div style="flex: 1; text-align: center;">
-    <p><b>Room-Level Switching</b></p>
-    <video width="100%" controls>
-      <source src="videos/room_video.mp4" type="video/mp4">
-    </video>
-    <p><a href="videos/room_video.mp4">▶ Watch / Download</a></p>
-  </div>
-
-  <div style="flex: 1; text-align: center;">
-    <p><b>Curtain Automation</b></p>
-    <video width="100%" controls>
-      <source src="videos/curtain_video.mp4" type="video/mp4">
-    </video>
-    <p><a href="videos/curtain_video.mp4">▶ Watch / Download</a></p>
-  </div>
-
-  <div style="flex: 1; text-align: center;">
-    <p><b>Goodnight & Good Morning Scenes</b></p>
-    <video width="100%" controls>
-      <source src="videos/gn&gm_video.mp4" type="video/mp4">
-    </video>
-    <p><a href="videos/gn&gm_video.mp4">▶ Watch / Download</a></p>
-  </div>
-
-</div>
-
----
 
 ## 👥 Team
 

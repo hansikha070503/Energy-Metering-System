@@ -27,7 +27,7 @@ To bring this idea to life, our team built an integrated energy monitoring syste
 ---
 
 ## 📂 Proof of Implementation
-YAML configuration files are available in the [yaml-proof](yaml-proof/floor_plan.yaml) folder.  
+YAML configuration files are available in the [yaml-proof](yaml-proof/energy_metering.yaml) folder.  
 
 Snippet:
 

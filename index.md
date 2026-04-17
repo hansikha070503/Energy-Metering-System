@@ -57,6 +57,18 @@ views:
 
 ---
 
+## 🎥 Videos
+<div style="display: flex; gap: 10px; width: 100%;">
+
+  <div style="flex: 1; text-align: center;">
+    <p><b>Energy Usage Grapgh</b></p>
+    <video width="100%" controls>
+      <source src="videos/room_video.mp4" type="video/mp4">
+    </video>
+    <p><a href="videos/room_video.mp4">▶ Watch / Download</a></p>
+  </div>
+
+  ---
 
 ## 👥 Team
 

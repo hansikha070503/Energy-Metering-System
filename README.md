@@ -97,7 +97,7 @@ views:
 
 ## 👥 Team
 
-This project was built by: *Abhilash, **Amogh, **Chaitra* and *Hansikha Venkatesh*
+This project was built by: **Abhilash**, **Amogh**, **Chaitra** and **Hansikha Venkatesh**
 
 ---
 

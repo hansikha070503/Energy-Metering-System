@@ -17,6 +17,14 @@ To bring this idea to life, our team built an integrated energy monitoring syste
 
 ---
 
+## 🛠️ Languages & Technologies Used
+- **YAML** – Dashboard structure and configuration
+- **Jinja2** – Dynamic data rendering and logic
+- **CSS** – UI styling and theming
+- **JavaScript** – Used by custom cards (indirectly)
+
+---
+
 ## ⚙ Technology Stack
 - *Home Assistant* (central monitoring & visualization platform)  
 - *Modbus RS485* (reliable energy data communication) 
